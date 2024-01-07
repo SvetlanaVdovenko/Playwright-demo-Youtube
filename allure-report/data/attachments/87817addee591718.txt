@@ -1,0 +1,3 @@
+This is before each
+This is my test 4
+This is after all hook

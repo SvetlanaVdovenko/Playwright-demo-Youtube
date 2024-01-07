@@ -22,3 +22,4 @@ test('Test 3', async ({page}) => {
 // dot
 // reporter: [['json', { outputFile: 'results.json' }]]
 // reporter: [['junit', { outputFile: 'results.xml' }]]
+// reporter: "allure-playwright",
